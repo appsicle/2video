@@ -1,0 +1,27 @@
+#player{
+    display: block;
+    margin:70px auto 0 auto;
+}
+
+.button-container{
+    margin: 10px auto 0 auto;
+    width: 640px;
+    display: flex;
+}
+
+.button-container button{
+    margin: 0 1px;
+}
+
+.timeline{
+    background-color: #7f7f7f;
+    height: 1px;
+    width: 100%;
+    transform: translateY(15px);
+    margin-left: 10px;
+}
+
+#seeker{
+    transform: translateY(-12px);
+    font-size: 24px;
+}
